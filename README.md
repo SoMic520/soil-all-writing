@@ -108,7 +108,7 @@ gh skill preview SoMic520/soil-all-writing soil-all-writing
 ## 下载与更新
 
 - [最新发布包](https://github.com/SoMic520/soil-all-writing/releases/latest)：适合下载、留存或按平台说明手动安装。
-- [当前技能 ZIP](dist/._soil-all-writing-skill-20260817-v1.zip) 与 [SHA-256 校验值](dist/SHA256SUMS.txt)：用于核对文件完整性。
+- [当前技能 ZIP](dist/soil-all-writing-skill-20260817-v1.zip) 与 [SHA-256 校验值](dist/SHA256SUMS.txt)：用于核对文件完整性。
 - 更新已安装的技能：
 
 ```shell
